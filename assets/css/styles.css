@@ -83,6 +83,17 @@ h6 {
   .section-divider {
     width: 80%;
   }
+
+  #contacto {
+    padding-top: 1.5rem;
+    margin: 0;
+    background-color: var(--bs-dark-bg-subtle);
+  }
+
+  .contact-form {
+    border: none !important;
+    background-color: inherit !important;
+  }
 }
 
 @media (min-width: 768px) {
